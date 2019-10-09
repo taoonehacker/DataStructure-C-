@@ -1,0 +1,8 @@
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.deps.json
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.dll
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.pdb
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.csprojAssemblyReference.cache
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.AssemblyInfoInputs.cache
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.AssemblyInfo.cs
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.dll
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.pdb

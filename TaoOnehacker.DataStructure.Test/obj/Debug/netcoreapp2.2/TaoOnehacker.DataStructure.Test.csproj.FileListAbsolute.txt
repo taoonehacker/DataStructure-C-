@@ -11,3 +11,6 @@
 /Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.AssemblyInfo.cs
 /Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.dll
 /Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.pdb
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.dll
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Application.pdb
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.csproj.CopyComplete

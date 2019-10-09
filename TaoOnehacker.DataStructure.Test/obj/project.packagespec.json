@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/TaoOnehacker.DataStructure.Application.csproj": {
+            "projectPath": "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/TaoOnehacker.DataStructure.Application.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

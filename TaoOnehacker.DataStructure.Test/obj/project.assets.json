@@ -1611,6 +1611,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "TaoOnehacker.DataStructure.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/TaoOnehacker.DataStructure.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TaoOnehacker.DataStructure.Application.dll": {}
+        }
       }
     }
   },
@@ -5678,6 +5688,11 @@
         "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "TaoOnehacker.DataStructure.Application/1.0.0": {
+      "type": "project",
+      "path": "../TaoOnehacker.DataStructure.Application/TaoOnehacker.DataStructure.Application.csproj",
+      "msbuildProject": "../TaoOnehacker.DataStructure.Application/TaoOnehacker.DataStructure.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5685,6 +5700,7 @@
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "NUnit3TestAdapter >= 3.13.0",
+      "TaoOnehacker.DataStructure.Application >= 1.0.0",
       "nunit >= 3.12.0"
     ]
   },
@@ -5715,7 +5731,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/TaoOnehacker.DataStructure.Application.csproj": {
+              "projectPath": "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Application/TaoOnehacker.DataStructure.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
