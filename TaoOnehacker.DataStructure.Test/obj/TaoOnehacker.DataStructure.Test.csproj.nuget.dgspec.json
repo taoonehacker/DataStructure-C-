@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/TaoOnehacker.DataStructure.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/TaoOnehacker.DataStructure.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/TaoOnehacker.DataStructure.Test.csproj",
+        "projectName": "TaoOnehacker.DataStructure.Test",
+        "projectPath": "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/TaoOnehacker.DataStructure.Test.csproj",
+        "packagesPath": "/Users/tao/.nuget/packages/",
+        "outputPath": "/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/tao/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

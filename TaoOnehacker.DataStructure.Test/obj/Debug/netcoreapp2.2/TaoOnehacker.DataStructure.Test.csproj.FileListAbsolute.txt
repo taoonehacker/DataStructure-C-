@@ -1,0 +1,13 @@
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.deps.json
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.runtimeconfig.json
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.runtimeconfig.dev.json
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.dll
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/bin/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.pdb
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.csprojAssemblyReference.cache
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.AssemblyInfoInputs.cache
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.AssemblyInfo.cs
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.dll
+/Users/tao/Projects/Workspaces/CSharp/DataStructure/TaoOnehacker.DataStructure/TaoOnehacker.DataStructure.Test/obj/Debug/netcoreapp2.2/TaoOnehacker.DataStructure.Test.pdb
