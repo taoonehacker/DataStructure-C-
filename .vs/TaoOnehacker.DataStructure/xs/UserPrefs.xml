@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C6BB53CD-0B7B-4D71-BFBC-60198C488FCA}|Default">
+  <MonoDevelop.Ide.ItemProperties.TaoOnehacker.DataStructure.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaoOnehacker.DataStructure.Application/Array.cs">
+    <Files>
+      <File FileName="TaoOnehacker.DataStructure.Application/Array.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaoOnehacker.DataStructure" expanded="True">
+            <Node name="TaoOnehacker.DataStructure.Application" expanded="True">
+              <Node name="Array.cs" selected="True" />
+            </Node>
+            <Node name="TaoOnehacker.DataStructure.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
