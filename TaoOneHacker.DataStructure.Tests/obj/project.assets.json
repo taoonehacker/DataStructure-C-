@@ -5698,40 +5698,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\taoon\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/tao/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspaces\\GitHub\\DataStructure-CSharp\\TaoOneHacker.DataStructure.Tests\\TaoOneHacker.DataStructure.Tests.csproj",
+      "projectUniqueName": "/Users/tao/Projects/GitHub/DataStructure-CSharp/TaoOneHacker.DataStructure.Tests/TaoOneHacker.DataStructure.Tests.csproj",
       "projectName": "TaoOneHacker.DataStructure.Tests",
-      "projectPath": "D:\\Workspaces\\GitHub\\DataStructure-CSharp\\TaoOneHacker.DataStructure.Tests\\TaoOneHacker.DataStructure.Tests.csproj",
-      "packagesPath": "C:\\Users\\taoon\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspaces\\GitHub\\DataStructure-CSharp\\TaoOneHacker.DataStructure.Tests\\obj\\",
+      "projectPath": "/Users/tao/Projects/GitHub/DataStructure-CSharp/TaoOneHacker.DataStructure.Tests/TaoOneHacker.DataStructure.Tests.csproj",
+      "packagesPath": "/Users/tao/.nuget/packages/",
+      "outputPath": "/Users/tao/Projects/GitHub/DataStructure-CSharp/TaoOneHacker.DataStructure.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\taoon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/tao/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Workspaces\\GitHub\\DataStructure-CSharp\\TaoOneHacker.DataStructure.Core\\TaoOneHacker.DataStructure.Core.csproj": {
-              "projectPath": "D:\\Workspaces\\GitHub\\DataStructure-CSharp\\TaoOneHacker.DataStructure.Core\\TaoOneHacker.DataStructure.Core.csproj"
+            "/Users/tao/Projects/GitHub/DataStructure-CSharp/TaoOneHacker.DataStructure.Core/TaoOneHacker.DataStructure.Core.csproj": {
+              "projectPath": "/Users/tao/Projects/GitHub/DataStructure-CSharp/TaoOneHacker.DataStructure.Core/TaoOneHacker.DataStructure.Core.csproj"
             }
           }
         }
@@ -5771,7 +5767,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
   }
